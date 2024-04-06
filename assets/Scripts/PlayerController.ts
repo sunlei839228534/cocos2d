@@ -8,7 +8,8 @@ export class NewComponent extends Component {
     }
 
     update(deltaTime: number) {
-        
+
     }
 }
-
+
+
